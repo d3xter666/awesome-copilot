@@ -793,6 +793,42 @@
       "version": "1.0.0"
     },
     {
+      "name": "ui5",
+      "description": "SAPUI5 / OpenUI5 plugin for Claude. Create and validate UI5 projects, access API documentation, run UI5 linter, get development guidelines and best practices for UI5 development.",
+      "author": {
+        "name": "SAP SE",
+        "email": "openui5@sap.com",
+        "url": "https://www.sap.com"
+      },
+      "homepage": "https://github.com/UI5/plugins-coding-agents",
+      "license": "Apache-2.0",
+      "source": {
+        "source": "github",
+        "repo": "UI5/plugins-claude",
+        "path": "plugins/ui5",
+        "ref": "main"
+      },
+     "repository": "https://github.com/UI5/plugins-coding-agents"
+    },
+    {
+      "name": "ui5-typescript-conversion",
+      "description": "SAPUI5 / OpenUI5 plugin for Claude. Convert JavaScript based UI5 projects to TypeScript.",
+      "author": {
+        "name": "SAP SE",
+        "email": "openui5@sap.com",
+        "url": "https://www.sap.com"
+      },
+      "homepage": "https://github.com/UI5/plugins-coding-agents",
+      "license": "Apache-2.0",
+      "source": {
+        "source": "github",
+        "repo": "UI5/plugins-claude",
+        "path": "plugins/ui5-typescript-conversion",
+        "ref": "main"
+      },
+      "repository": "https://github.com/UI5/plugins-coding-agents"
+    },
+    {
       "name": "vercel-plugin",
       "description": "Build and deploy web apps and agents. Comprehensive Vercel ecosystem plugin — relational knowledge graph, skills for every major product, specialized agents, and Vercel conventions. Turns any AI agent into a Vercel expert.",
       "version": "0.43.0",
